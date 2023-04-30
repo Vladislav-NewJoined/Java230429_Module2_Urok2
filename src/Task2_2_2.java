@@ -2,7 +2,7 @@
 // 2.	Выведите числа от 1.5 до 101.5: 1.5,2,2.5,3,3.5...101.5
 public class Task2_2_2 {
     public static void main(String[] args) {
-        System.out.println("Задание: \nВыведите числа от 1.5 до 101.5: 1.5,2,2.5,3,3.5...101.5" + "\n");
+        System.out.println("Задание: \n2. Выведите числа от 1.5 до 101.5: 1.5,2,2.5,3,3.5...101.5" + "\n");
         System.out.println("Решение: ");
 
         double x = 1.5;
