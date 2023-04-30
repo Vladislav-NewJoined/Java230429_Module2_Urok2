@@ -13,7 +13,7 @@ public class Task2_2_6 {
         System.out.println("Решение: ");
 
         System.out.println("Создаем файл txt. В нем две строки: секретное слово и подсказка: \nКаракас\nВенесуэлла\n");
-// инфо, как создать файл txt здесь: https://yandex.ru/video/preview/9761637152705084468
+// инфо, как создать файл txt, здесь: https://yandex.ru/video/preview/9761637152705084468
         System.out.println("Подсказка: \nВенесуэлла\n");
         File myFile = new File("src\\" + "textForTask.txt");
         try {
