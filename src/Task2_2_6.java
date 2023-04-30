@@ -8,7 +8,7 @@ import java.util.Scanner;
 // Задание здесь: https://lms.synergy.ru/learning/view/68552/?groupPeriodId=1045153&disciplineVersionId=25858&start=1
 // Видеоурок здесь: https://lms.synergy.ru/learning/view/68494
 public class Task2_2_6 {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         System.out.println("Задание: \n6.\tВ файле две строки: секретное слово и подсказка. \nВывести подсказку. Считывать строку за строкой, пока игрок \nне отгадает секретное слово(не введёт его)\n");
         System.out.println("Решение: ");
 
