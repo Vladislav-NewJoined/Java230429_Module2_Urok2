@@ -56,8 +56,8 @@ public class Task2_2_8 {
         }
 
         // Теперь поочерёдно вводят слова
-        String str_FromFirstPl = "";
-        String str_FromSecondPl = "";
+        String str_FromFirstPl;
+        String str_FromSecondPl;
 
         Scanner scanner_FromFirst_Player = new Scanner(System.in); // видео мин 23.05
         Scanner scanner_FromSecond_Player = new Scanner(System.in);
