@@ -58,7 +58,7 @@ public class Task2_2_11 {
                 System.out.println("Input/Output error");
             }
         }
-        System.out.println("Фотографии NASA за Январь 2022 г. сохранены в папке NASA_Photos_Of_January_2022.");
+        System.out.println("Фотографии NASA за январь 2022 г. сохранены в папке NASA_Photos_Of_January_2022.");
     }
 
     private static String downloadWebPage (String url) throws IOException {
